@@ -1,0 +1,52 @@
+#topbar
+{
+  background-color:black;
+  height:10px;
+  width:100%;
+}
+body
+{
+  background-color: white;
+}
+#container
+{
+  background-color: lightblue;
+  height:  800px;
+  width: 100%;
+  margin: 0px auto;
+}
+#header
+{
+  height: 80px;
+  background-color: royalblue;
+}
+#header img
+{
+  float: left;
+  height: 80px;
+}
+#header ul
+{
+  float: left;
+  margin-top: 25px;
+}
+#header ul li
+{
+  display: inline;
+  margin-right :20px;
+
+}
+#header ul li a
+{
+  color: #000;
+  text-decoration: none;
+  font-size: 15px;
+}
+#banner img
+{
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+  border: 8px ridge white;  
+  padding: 5px;  
+}
